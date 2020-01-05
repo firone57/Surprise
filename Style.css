@@ -1,0 +1,25 @@
+h1
+{color: rgb(0, 162, 255);
+	text-decoration: underline;
+}
+p
+{color: red;
+	font-weight: bold;
+ font-size: 1.3em;
+}
+ul
+{color: red;
+ font-size:1.3em ;
+
+ }
+ *
+ {font-family: Arial black;
+ 	text-align: center;
+ 	text-shadow: 4px 4px 4px black;
+ }
+body
+{
+	background-image: url("download.jpg");
+	background-size: 1.3em;
+
+}
